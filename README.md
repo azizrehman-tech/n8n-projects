@@ -160,8 +160,6 @@ flowchart TD
 ## 📚 Included Guides & Starter Kits
 
 This repository also includes comprehensive reference documentation located in the root directory:
-
-- 📘 **[`The Ultimate n8n Starter Kit.pdf`](./The%20Ultimate%20n8n%20Starter%20Kit.pdf)**: Complete setup guide, node walkthroughs, expression cheat sheets, and best practices for scaling self-hosted instances.
 - 📙 **[`Mastering Reactive Prompting for AI Agents (1).pdf`](./Mastering%20Reactive%20Prompting%20for%20AI%20Agents%20(1).pdf)**: In-depth framework on prompt steering, few-shot guardrails, context compaction, and preventing agent drift.
 - 📗 **[`AI Works..pdf`](./AI%20Works..pdf)**: High-level methodology on integrating cognitive agents into real-world business pipelines.
 
