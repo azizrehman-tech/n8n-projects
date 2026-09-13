@@ -1,0 +1,16 @@
+# Environment and secrets
+.env
+*.env
+*.pem
+*.key
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# n8n local data / logs
+*.log
+.n8n/
